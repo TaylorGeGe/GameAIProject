@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scripts/04-AStar\u5BFB\u8DEF/04-AStar\u5BFB\u8DEF.unity"
+  isLoaded: 1
+  isActive: 1
